@@ -1,2 +1,4 @@
 
-The dataset is retrived from http://mrl.cs.vsb.cz/eyedataset
+The dataset is retrived from MRL Eye Dataset.
+
+Link: http://mrl.cs.vsb.cz/eyedataset

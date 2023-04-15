@@ -8,12 +8,12 @@ Driver fatigue is a major cause of vehicle accidents globally, hence, there is a
 
 http://mrl.cs.vsb.cz/eyedataset
 
-#Results
+# Results
 
 Accuracy for the Validation Dataset: 90.33%
 Loss for the Validation Dataset: 23.57%
-
-#References:
+ 
+# References:
 
 [1] Fusek, R. (2018). MRL Eye Dataset. Retrieved from MRL: http://mrl.cs.vsb.cz/eyedataset
 

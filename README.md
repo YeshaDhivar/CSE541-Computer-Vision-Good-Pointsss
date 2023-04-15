@@ -2,7 +2,7 @@
 
 A Computer Vision based project that includes prediction of state of eye and eventually determining whether the driver is drowsy or not and alert the drowsy driver. 
 
-Driver fatigue is a major cause of vehicle accidents globally, hence, there is a need to detect drowsiness to save lives and property. This project aims to develop a non-intrusive drowsiness detection system that continuously captures images and measures the state of the driver's eyes. We have developed an alert system to alert driver when he is found to be drowsy.
+Driver fatigue is a major cause of vehicle accidents globally, hence, there is a need to detect drowsiness to save lives and property. This project aims to develop a non-intrusive drowsiness detection system that continuously captures images and measures the state of the driver's eyes. We have developed an alert system to alert driver when he is found to be drowsy. Convolutional Neural Networks is used to develop and train the model which can successfully detect whether the driver is drowsy or not. This would help in reducing the number of accidents happening due to sleepy driver. The objective is to develop a non-intrusive mechanism to alert the driver and prevent any accident from occuring
 
 # Dataset from: URL Eye Dataset
 

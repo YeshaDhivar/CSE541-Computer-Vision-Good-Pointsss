@@ -11,6 +11,7 @@ http://mrl.cs.vsb.cz/eyedataset
 # Results
 
 Accuracy for the Validation Dataset: 90.33%
+
 Loss for the Validation Dataset: 23.57%
  
 # References:
